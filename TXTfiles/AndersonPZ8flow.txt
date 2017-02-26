@@ -1,0 +1,37 @@
+[CONFIGURATION]
+Description: Anderson PZ8 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+9.45
+7.07
+0.31
+0.60
+10.08
+9.75
+9.30
+8.21
+0.04
+0.04
+0.04
+0.04
+0.04
+0.04
+0.04
+0.04
+0.04
+0.04
+0.04
+9.77
+6.85
+0.04
+0.04
+9.95
+
+

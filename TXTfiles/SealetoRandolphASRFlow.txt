@@ -1,0 +1,53 @@
+[CONFIGURATION]
+Description: Seale to Randolph ASR Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+15.01
+15.48
+0.03
+0.03
+0.03
+0.03
+0.03
+16.01
+15.62
+15.00
+14.79
+13.75
+10.02
+11.66
+8.83
+9.43
+8.91
+0.08
+0.08
+15.08
+14.76
+14.02
+13.94
+13.53
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

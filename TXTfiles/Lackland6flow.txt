@@ -1,0 +1,47 @@
+[CONFIGURATION]
+Description: Lackland City #6 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.58
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2.46
+2.88
+2.91
+0.67
+0.33
+3.09
+2.94
+1.23
+0.00
+0.00
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+[CONFIGURATION]
+Description: Turtle Creek #3 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+2.71
+2.69
+2.67
+2.71
+2.77
+2.74
+2.75
+2.87
+2.91
+2.89
+2.82
+2.71
+2.74
+2.73
+2.75
+2.74
+2.75
+2.77
+2.83
+2.84
+2.92
+2.94
+2.85
+2.74
+
+
+
+
+
+
+
+

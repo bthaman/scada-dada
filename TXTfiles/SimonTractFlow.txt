@@ -1,0 +1,50 @@
+[CONFIGURATION]
+Description: Simon Tract Booster Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.18
+0.30
+0.23
+0.27
+0.30
+0.72
+0.37
+0.15
+0.22
+0.28
+0.22
+0.20
+0.33
+0.29
+0.29
+0.19
+0.21
+0.22
+0.07
+0.18
+0.48
+0.31
+0.37
+0.13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

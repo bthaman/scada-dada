@@ -1,0 +1,55 @@
+[CONFIGURATION]
+Description: Winchester Hts. Booster Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+4.23
+2.98
+2.97
+3.42
+2.23
+2.41
+1.90
+0.72
+0.00
+2.47
+2.70
+2.11
+1.96
+1.81
+1.69
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

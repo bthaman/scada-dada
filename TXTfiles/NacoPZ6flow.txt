@@ -1,0 +1,44 @@
+[CONFIGURATION]
+Description: Naco PZ6 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+10.85
+10.56
+10.42
+10.87
+11.21
+11.36
+11.45
+11.76
+11.46
+11.41
+11.66
+11.54
+0.00
+0.00
+0.00
+14.22
+12.95
+12.74
+12.01
+17.34
+18.09
+18.02
+17.08
+16.89
+
+
+
+
+
+
+
+
+

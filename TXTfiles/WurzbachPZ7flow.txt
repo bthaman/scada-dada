@@ -1,0 +1,38 @@
+[CONFIGURATION]
+Description: Wurzbach PZ7 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+26.00
+25.65
+26.47
+26.92
+27.96
+28.96
+25.60
+24.83
+25.25
+24.66
+24.89
+24.69
+23.90
+23.81
+23.55
+21.45
+16.71
+19.27
+19.50
+25.97
+25.96
+25.31
+24.18
+24.15
+
+
+

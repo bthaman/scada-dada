@@ -1,0 +1,43 @@
+[CONFIGURATION]
+Description: Bitters Inline Pump Station Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+27.09
+27.44
+27.89
+28.40
+28.87
+28.04
+28.15
+27.24
+26.61
+27.89
+28.01
+28.61
+26.67
+26.47
+26.74
+27.31
+27.28
+26.85
+27.08
+27.54
+27.39
+26.91
+25.84
+26.52
+
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
+[CONFIGURATION]
+Description: Walzem Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+2.75
+2.76
+2.78
+2.77
+2.78
+2.77
+2.78
+2.80
+2.79
+2.78
+2.78
+2.75
+2.74
+2.69
+2.68
+2.67
+2.67
+2.65
+2.70
+2.80
+2.80
+2.75
+2.69
+2.65
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

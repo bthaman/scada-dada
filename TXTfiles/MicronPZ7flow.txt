@@ -1,0 +1,39 @@
+[CONFIGURATION]
+Description: Micron PZ7 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+11.03
+9.26
+8.85
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+11.21
+10.46
+11.30
+0.00
+
+
+
+

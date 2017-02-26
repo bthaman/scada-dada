@@ -1,0 +1,39 @@
+[CONFIGURATION]
+Description: Fischer Rd PRV Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+1.25
+1.24
+1.19
+1.16
+1.18
+1.27
+1.31
+1.32
+1.36
+1.40
+1.40
+1.40
+1.41
+1.39
+1.38
+1.39
+1.40
+1.37
+1.39
+1.46
+1.35
+1.30
+1.27
+1.21
+
+
+
+

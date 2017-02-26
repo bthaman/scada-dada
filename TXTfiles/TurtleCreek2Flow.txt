@@ -1,0 +1,43 @@
+[CONFIGURATION]
+Description: Turtle Creek #2 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.00
+0.00
+0.00
+6.25
+6.32
+6.09
+0.00
+0.00
+0.00
+6.31
+6.36
+6.11
+0.00
+0.00
+6.27
+0.00
+0.00
+0.00
+0.00
+6.36
+6.40
+6.26
+6.13
+0.00
+
+
+
+
+
+
+
+

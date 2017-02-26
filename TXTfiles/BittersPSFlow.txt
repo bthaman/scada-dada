@@ -1,0 +1,42 @@
+[CONFIGURATION]
+Description: Bitters Pump Station Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+4.56
+0.00
+0.00
+8.27
+12.04
+14.45
+14.38
+14.11
+5.72
+5.96
+2.38
+2.50
+2.48
+2.44
+2.53
+2.71
+0.00
+0.00
+2.66
+15.75
+19.76
+16.83
+3.54
+5.77
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+[CONFIGURATION]
+Description: Salado Bypass Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.79
+0.76
+2.37
+2.32
+2.16
+1.80
+1.60
+1.33
+1.13
+1.11
+1.06
+0.94
+0.93
+0.54
+0.54
+0.53
+0.59
+0.61
+0.72
+2.44
+2.44
+1.71
+1.39
+0.77
+
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+[CONFIGURATION]
+Description: Oliver Ranch HSP #2 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+7.252
+7.283
+6.801
+7.113
+7.160
+7.032
+6.798
+0.000
+0.000
+0.000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

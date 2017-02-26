@@ -1,0 +1,48 @@
+[CONFIGURATION]
+Description: Hills Booster HSP #1 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.35
+2.35
+2.65
+2.55
+0.23
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2.44
+2.78
+2.66
+2.59
+2.55
+
+
+
+
+
+
+
+
+
+
+
+
+

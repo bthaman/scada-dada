@@ -1,0 +1,38 @@
+[CONFIGURATION]
+Description: Anderson PZ7 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+18.72
+16.65
+16.64
+33.95
+16.53
+9.05
+11.47
+13.41
+15.00
+15.00
+15.00
+19.63
+19.30
+12.42
+12.08
+20.96
+0.00
+6.47
+40.59
+42.64
+36.70
+10.89
+20.22
+11.20
+
+
+

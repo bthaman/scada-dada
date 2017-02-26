@@ -1,0 +1,45 @@
+[CONFIGURATION]
+Description: University Booster Inlet Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+17.82
+17.82
+17.82
+17.82
+17.82
+17.82
+17.82
+17.61
+17.82
+17.71
+17.78
+17.80
+11.78
+11.85
+6.33
+0.20
+0.21
+0.16
+11.60
+11.16
+10.89
+11.15
+11.52
+17.76
+
+
+
+
+
+
+
+
+
+

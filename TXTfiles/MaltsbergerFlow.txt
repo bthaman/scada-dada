@@ -1,0 +1,40 @@
+[CONFIGURATION]
+Description: Maltsberger Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+37.48
+35.08
+35.95
+49.63
+42.95
+39.99
+40.03
+42.51
+41.17
+40.27
+39.42
+39.03
+41.50
+41.33
+41.92
+42.15
+41.43
+40.77
+41.59
+42.29
+43.19
+43.60
+42.43
+40.81
+
+
+
+
+

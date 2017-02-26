@@ -1,0 +1,46 @@
+[CONFIGURATION]
+Description: Mission PZ3 HSP #6 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+9.68
+9.22
+10.43
+6.56
+7.03
+7.08
+7.08
+7.08
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+
+
+
+
+
+
+
+
+
+

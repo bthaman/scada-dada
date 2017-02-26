@@ -1,0 +1,47 @@
+[CONFIGURATION]
+Description: Sunshine Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.00
+0.75
+3.14
+3.12
+3.13
+3.16
+3.10
+3.13
+3.14
+3.11
+3.13
+3.08
+3.07
+3.05
+3.02
+3.04
+3.03
+3.02
+3.02
+3.02
+3.02
+3.00
+2.88
+2.79
+
+
+
+
+
+
+
+
+
+
+
+

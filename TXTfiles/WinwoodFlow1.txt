@@ -1,0 +1,59 @@
+[CONFIGURATION]
+Description: Winwood HSP #1 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+1.87
+1.95
+2.04
+2.27
+1.91
+1.86
+1.81
+1.77
+1.62
+1.24
+1.14
+1.90
+1.97
+1.98
+2.01
+2.05
+2.11
+2.19
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

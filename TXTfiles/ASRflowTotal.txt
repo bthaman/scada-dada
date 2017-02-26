@@ -1,0 +1,39 @@
+[CONFIGURATION]
+Description: ASR Metered Total Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+9.46
+9.05
+15.58
+14.44
+14.90
+15.48
+16.45
+19.62
+18.72
+18.22
+17.48
+16.72
+9.76
+10.03
+9.63
+9.83
+9.91
+14.83
+22.89
+40.60
+47.61
+46.19
+43.90
+36.01
+
+
+
+

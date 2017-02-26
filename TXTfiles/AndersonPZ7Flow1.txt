@@ -1,0 +1,39 @@
+[CONFIGURATION]
+Description: Anderson PZ7 Pump 1 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+6.240
+5.550
+5.546
+6.824
+3.285
+1.694
+2.215
+2.629
+0.000
+0.000
+0.000
+6.543
+6.432
+0.000
+0.000
+0.000
+0.000
+6.473
+13.484
+8.547
+7.371
+3.629
+6.738
+3.733
+
+
+
+

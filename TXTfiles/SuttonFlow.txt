@@ -1,0 +1,48 @@
+[CONFIGURATION]
+Description: Sutton Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.00
+0.00
+0.00
+0.00
+0.00
+3.32
+3.94
+3.94
+3.93
+3.92
+3.92
+3.90
+3.89
+3.88
+3.86
+3.86
+3.85
+3.84
+3.85
+3.87
+3.85
+3.74
+3.66
+3.58
+
+
+
+
+
+
+
+
+
+
+
+
+

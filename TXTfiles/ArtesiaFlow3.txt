@@ -1,0 +1,42 @@
+[CONFIGURATION]
+Description: Artesia Pump 3 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.02
+0.02
+0.02
+0.02
+0.02
+0.02
+0.02
+14.63
+14.56
+14.50
+14.26
+13.70
+0.01
+0.01
+0.01
+0.01
+0.01
+0.01
+15.04
+15.04
+14.73
+14.53
+13.80
+14.17
+
+
+
+
+
+
+

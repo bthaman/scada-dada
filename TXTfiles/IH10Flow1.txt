@@ -1,0 +1,46 @@
+[CONFIGURATION]
+Description: IH-10 Booster HSP #1 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0.18
+0
+0
+0
+0
+2.55
+2.44
+2.37
+2.34
+
+
+
+
+
+
+
+
+
+
+

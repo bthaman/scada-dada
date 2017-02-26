@@ -1,0 +1,45 @@
+[CONFIGURATION]
+Description: University Booster Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+17.15
+17.15
+18.33
+18.12
+18.36
+18.50
+18.55
+18.66
+18.57
+18.20
+18.01
+6.54
+5.85
+5.84
+6.19
+6.33
+6.36
+12.81
+12.85
+6.12
+18.15
+18.16
+18.03
+7.17
+
+
+
+
+
+
+
+
+
+

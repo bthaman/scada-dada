@@ -1,0 +1,38 @@
+[CONFIGURATION]
+Description: Artesia PZ3 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+7.13
+7.10
+7.29
+7.18
+7.36
+7.34
+7.31
+14.66
+14.59
+14.53
+14.29
+13.74
+7.28
+7.29
+7.34
+7.27
+7.55
+7.55
+15.07
+15.07
+21.79
+21.54
+20.48
+14.21
+
+
+

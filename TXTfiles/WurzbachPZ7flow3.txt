@@ -1,0 +1,41 @@
+[CONFIGURATION]
+Description: Wurzbach PZ7 HSP #3 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.01
+0.01
+0.01
+0.01
+0.01
+0.01
+6.98
+6.41
+6.98
+6.68
+6.79
+6.65
+6.31
+6.46
+6.38
+5.40
+0.01
+0.01
+0.01
+7.05
+7.19
+6.79
+6.41
+6.59
+
+
+
+
+
+

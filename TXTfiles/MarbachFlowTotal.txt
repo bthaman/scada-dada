@@ -1,0 +1,45 @@
+[CONFIGURATION]
+Description: Marbach HSP #5 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+5.41
+6.03
+5.79
+5.83
+6.04
+6.26
+17.4
+12.6
+12.13
+11.58
+11.24
+9.95
+11.38
+11.3
+11.64
+0
+0
+8.64
+12.47
+12.97
+12.35
+12.56
+11.01
+1.72
+
+
+
+
+
+
+
+
+
+

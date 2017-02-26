@@ -1,0 +1,42 @@
+[CONFIGURATION]
+Description: Sunset Booster Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+12.52
+12.37
+12.34
+12.24
+12.31
+12.34
+12.39
+12.37
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+13.84
+13.73
+13.00
+12.99
+12.79
+12.56
+12.17
+
+
+
+
+
+
+

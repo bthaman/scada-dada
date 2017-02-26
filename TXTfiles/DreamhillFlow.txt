@@ -1,0 +1,41 @@
+[CONFIGURATION]
+Description: Dreamhill Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+3.93
+3.92
+3.92
+3.93
+3.94
+3.90
+3.89
+3.95
+3.99
+3.98
+3.99
+3.95
+3.94
+3.95
+3.97
+3.94
+3.92
+3.95
+3.95
+3.95
+3.97
+3.96
+3.93
+3.90
+
+
+
+
+
+

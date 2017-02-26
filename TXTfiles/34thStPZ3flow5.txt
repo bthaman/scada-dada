@@ -1,0 +1,38 @@
+[CONFIGURATION]
+Description: 34 St PZ3 Pump 5 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+7.52
+7.56
+8.28
+8.15
+8.48
+8.70
+9.33
+8.32
+8.30
+8.56
+8.60
+8.70
+8.60
+8.46
+8.39
+9.13
+8.61
+8.97
+9.34
+9.97
+9.41
+9.21
+8.75
+8.09
+
+
+

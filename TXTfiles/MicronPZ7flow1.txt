@@ -1,0 +1,40 @@
+[CONFIGURATION]
+Description: Micron PZ7 Pump 1 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.08
+0.08
+0.08
+0.08
+0.08
+0.08
+0.07
+7.68
+7.10
+6.68
+0.08
+0.08
+0.08
+0.08
+0.08
+0.07
+0.07
+0.07
+0.06
+9.84
+9.13
+9.93
+8.47
+0.07
+
+
+
+
+

@@ -1,0 +1,42 @@
+[CONFIGURATION]
+Description: Inwood Booster Pump Station Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+3.49
+3.56
+3.57
+0.00
+0.00
+0.00
+3.35
+3.33
+3.55
+3.35
+3.16
+3.07
+7.75
+1.09
+1.09
+1.33
+2.18
+2.30
+2.27
+5.90
+6.36
+6.16
+5.92
+2.04
+
+
+
+
+
+
+

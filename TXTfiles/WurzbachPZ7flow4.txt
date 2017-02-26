@@ -1,0 +1,42 @@
+[CONFIGURATION]
+Description: Wurzbach PZ7 HSP #4 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+11.93
+11.43
+11.94
+12.20
+12.95
+13.56
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+
+
+
+
+
+

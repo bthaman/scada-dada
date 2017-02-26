@@ -1,0 +1,63 @@
+[CONFIGURATION]
+Description: Oliver Ranch HSP Total Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.000
+0.000
+7.302
+7.517
+6.728
+6.609
+6.229
+5.622
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+7.252
+7.283
+6.801
+7.113
+7.160
+18.630
+18.129
+11.133
+10.743
+11.008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

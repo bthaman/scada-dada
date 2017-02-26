@@ -1,0 +1,42 @@
+[CONFIGURATION]
+Description: Inwood Inline Booster Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.72
+0.80
+0.78
+0.90
+1.10
+1.01
+0.90
+0.61
+
+
+
+
+
+
+

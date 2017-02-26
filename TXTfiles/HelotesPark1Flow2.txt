@@ -1,0 +1,46 @@
+[CONFIGURATION]
+Description: Helotes Park #1 Booster HSP #2 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1.01
+1.01
+0.00
+0.00
+
+
+
+
+
+
+
+
+
+
+

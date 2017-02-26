@@ -1,0 +1,41 @@
+[CONFIGURATION]
+Description: Wurzbach PZ5 HSP #3 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+13.03
+12.82
+13.77
+14.15
+14.32
+14.98
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+15.00
+14.70
+0.00
+0.00
+
+
+
+
+
+

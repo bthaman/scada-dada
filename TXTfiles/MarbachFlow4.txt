@@ -1,0 +1,44 @@
+[CONFIGURATION]
+Description: Marbach HSP #4 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+10.86
+12.60
+12.13
+11.58
+11.24
+9.95
+11.38
+11.30
+11.64
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+
+
+
+
+
+
+
+

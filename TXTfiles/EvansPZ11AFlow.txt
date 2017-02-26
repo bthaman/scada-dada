@@ -1,0 +1,57 @@
+[CONFIGURATION]
+Description: Evans PZ11A Booster Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+5.05
+5.05
+5.12
+4.93
+4.91
+4.78
+4.62
+4.30
+3.31
+1.72
+2.27
+3.28
+3.26
+3.29
+3.26
+0.27
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1.96
+1.55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,42 @@
+[CONFIGURATION]
+Description: Salado Booster Pump #3 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.00
+0.00
+2.36
+2.48
+2.32
+2.07
+1.97
+1.99
+1.98
+2.00
+2.02
+2.01
+2.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1.90
+2.59
+2.07
+2.08
+0.00
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+[CONFIGURATION]
+Description: University Pump 4 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+5.979
+5.982
+6.012
+5.933
+6.023
+6.076
+6.094
+6.133
+6.101
+5.964
+5.890
+5.738
+6.046
+6.038
+6.361
+6.488
+6.516
+5.403
+6.503
+6.300
+6.401
+6.402
+6.348
+6.190
+
+
+
+
+
+
+
+
+
+
+
+

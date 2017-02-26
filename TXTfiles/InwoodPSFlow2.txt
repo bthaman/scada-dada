@@ -1,0 +1,44 @@
+[CONFIGURATION]
+Description: Inwood Pump 2 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+4.764
+1.091
+1.087
+1.334
+1.461
+1.494
+1.486
+1.535
+1.641
+1.593
+1.538
+1.426
+
+
+
+
+
+
+
+
+

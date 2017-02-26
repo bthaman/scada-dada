@@ -1,0 +1,44 @@
+[CONFIGURATION]
+Description: Market PZ3 HSP #4 Flow
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+8.67
+8.49
+7.48
+8.05
+5.42
+6.21
+7.72
+7.76
+7.61
+6.30
+7.59
+7.25
+8.12
+7.96
+8.43
+9.25
+11.46
+10.58
+8.84
+10.33
+10.25
+9.15
+7.54
+6.56
+
+
+
+
+
+
+
+
+

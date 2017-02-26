@@ -1,0 +1,50 @@
+[CONFIGURATION]
+Description: Los Reyes Canyon #2 Booster Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+2.08
+2.14
+2.07
+2.12
+2.07
+2.12
+2.15
+2.07
+2.21
+2.12
+2.21
+2.28
+2.33
+2.20
+2.29
+2.29
+2.29
+2.21
+2.30
+2.25
+2.29
+2.23
+2.31
+2.15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

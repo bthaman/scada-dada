@@ -1,0 +1,39 @@
+[CONFIGURATION]
+Description: Randolph PZ6 Pump 2 Flow (mgd)
+Comment: n/a
+Node: n/a
+Channel: Flow
+Date Format: DD/MM
+Time: 14/08/12,00:00
+Interval: 60 min
+Records: 24
+
+[DATA]
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2.96
+2.96
+3.21
+3.37
+1.74
+2.70
+2.43
+
+
+
+
